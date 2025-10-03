@@ -80,7 +80,7 @@ Final model: **Random Forest Regressor**
 - **RMSE:** 0.294  
 - **R²:** 0.962  
 
-Top features:
+## Top features:
 1. **Votes** (most influential, ~94%)  
 2. **Location (Longitude, Latitude)**  
 3. **Average Cost for Two**  
